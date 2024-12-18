@@ -5,10 +5,10 @@ Tab Based library book availability &amp; location finder on wifi
 This project is designed to provide users with a seamless way to search for and request books in a local library setting using Wi-Fi.
 Table of content 
 ## Features
-- Search for books by title, author, or genre.
-- Request books for checkout.
-- Update book availability.
-- User authentication and profiles.
+Admin Features: Login, book management, requests.
+User Features: Registration, search, request unavailable books.
+System Integration: WiFi setup, database synchronization.
+Testing: Unit tests, integration tests, user acceptance testing.
 ## Installation in setting your project locally
 * Download Github desktop with this link  https://desktop.github.com/
 * This helps you make changes offline and have the project on your pc
